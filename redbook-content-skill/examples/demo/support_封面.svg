@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1242" height="1660" viewBox="0 0 1242 1660">
+  <!-- 背景 -->
+  <rect width="1242" height="1660" fill="#FBF7F0"/>
+  <!-- 顶部装饰圆角块 -->
+  <rect x="80" y="200" width="180" height="14" rx="7" fill="#C9A227"/>
+  <!-- 栏目标签 -->
+  <text x="80" y="300" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="40" fill="#8C7B6B">打工人晨间指南</text>
+  <!-- 封面主标题（钩子） -->
+  <text x="80" y="520" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="150" font-weight="800" fill="#2E2A24">3个早起</text>
+  <text x="80" y="690" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="150" font-weight="800" fill="#2E2A24">习惯</text>
+  <!-- 利益点（副标题） -->
+  <text x="84" y="800" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="52" fill="#8C7B6B">不痛苦 · 第2个真有用</text>
+  <!-- 编号卡片（清单感） -->
+  <g font-family="'PingFang SC','Microsoft YaHei',sans-serif">
+    <rect x="80" y="980" width="1082" height="120" rx="28" fill="#FFFFFF"/>
+    <text x="130" y="1062" font-size="56" font-weight="700" fill="#C9A227">1</text>
+    <text x="220" y="1058" font-size="44" fill="#2E2A24">睡前把明天衣服摆好</text>
+
+    <rect x="80" y="1130" width="1082" height="120" rx="28" fill="#FFFFFF"/>
+    <text x="130" y="1212" font-size="56" font-weight="700" fill="#C9A227">2</text>
+    <text x="220" y="1208" font-size="44" fill="#2E2A24">闹钟放远，逼自己下床</text>
+
+    <rect x="80" y="1280" width="1082" height="120" rx="28" fill="#FFFFFF"/>
+    <text x="130" y="1362" font-size="56" font-weight="700" fill="#C9A227">3</text>
+    <text x="220" y="1358" font-size="44" fill="#2E2A24">起床先喝一杯温水</text>
+  </g>
+  <!-- 底部留白（安全区内，不放账号名） -->
+</svg>
